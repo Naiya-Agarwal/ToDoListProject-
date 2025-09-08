@@ -40,7 +40,7 @@ ToDoListProject/
 ## ▶️ How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/ToDoListProject.git
+   git clone https://github.com/Naiya-Agarwal/ToDoListProject.git
    cd ToDoListProject/src
 2. Compile the code:
 
